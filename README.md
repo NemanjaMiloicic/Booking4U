@@ -20,8 +20,8 @@ BurgerHouse je web aplikacija rađena u c# .netu i reactjs kao bazu koristi mong
 
 admin mongoDB:
 
-gmail :
-password :
+gmail : mikamikic@gmail.com
+password : mika12345!
 
 user mongoDB:
 
