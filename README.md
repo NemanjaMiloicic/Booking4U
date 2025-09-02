@@ -1,6 +1,6 @@
 # Booking4U
 
-BurgerHouse je web aplikacija rađena u c# .netu i reactjs kao bazu koristi mongodb iz mongodbAtlas server u frankfurtu. Aplikacija nudi:
+Booking4U je web aplikacija rađena u c# .netu i reactjs kao bazu koristi mongodb iz mongodbAtlas server u frankfurtu. Aplikacija nudi:
 
 - Prijava i odjava.
 - Pregled i filtriranje hotela po različitim kriterijumima.(klikom na logo pored imena na glavnoj stranici)
